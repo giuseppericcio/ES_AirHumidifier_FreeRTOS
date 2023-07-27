@@ -33,7 +33,7 @@ Il presente documento si propone di illustrare il progetto di un'applicazione pe
 ## Panoramica del sistema
 Il sistema è composto da un sensore di temperatura e umidità, un sensore di livello dell'acqua e un nebulizzatore. L'obiettivo del sistema è mantenere livelli di umidità
 ottimali nell'ambiente circostante attivando il nebulizzatore in maniera automatica e portando dopo un certo tempo di transizione l’umidità nell’ambiente intorno alle
-percentuali indicate nel seguente infographic della National Asthma Council Australia.<br>
+percentuali indicate nel seguente *Infographic della National Asthma Council Australia*.<br>
 <br>
 ![image](https://github.com/giuseppericcio/ES_AirHumidifier_FreeRTOS/assets/7995055/7392f536-231e-40b6-b7be-5d963039dd87)
 
